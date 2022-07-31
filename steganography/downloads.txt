@@ -1,0 +1,14 @@
+hidden_zebra
+https://learn.csuchico.edu/bbcswebdav/pid-6763722-dt-content-rid-94396763_1/xid-94396763_1
+
+stage1
+https://learn.csuchico.edu/bbcswebdav/pid-6763728-dt-content-rid-94396759_1/xid-94396759_1
+
+stage2
+https://learn.csuchico.edu/bbcswebdav/pid-6763729-dt-content-rid-94396758_1/xid-94396758_1
+
+stage3
+https://learn.csuchico.edu/bbcswebdav/pid-6763731-dt-content-rid-94396756_1/xid-94396756_1
+
+stage4
+https://learn.csuchico.edu/bbcswebdav/pid-6763733-dt-content-rid-94396754_1/xid-94396754_1
