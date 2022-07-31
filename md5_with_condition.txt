@@ -17,3 +17,7 @@ a532443f3e04a9e00295a8cd2a75e080
 The following MD5 password is based on a Pokemon character (all lowercase):
 
 54c10b9736b70e75c6e505f340b6e2f1
+
+The following MD5 password is based on a Pokemon character (all lowercase):
+
+999cae1e22fe69d89d6f56e3050f18cb
